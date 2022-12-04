@@ -3,72 +3,46 @@ title: Onslow College Digital Technologies
 layout: auto_contents
 nav_exclude: true
 has_children: true
+preamble: |
+  Looking for the [2022 resources](/00_archive/2022)?
 categories:
-  - eleven:
-    category_name: 11DIT
+  - design:
+    category_name: Design
     category_items:
-      - programming:
-        item_name: Programming
+      - web_design:
+        item_name: Web Design
         item_desc: Introduction to Python, lists, and basic functions
         item_icon: 🐍
-        item_page: /11dit/programming
-      - design:
-        item_name: Design
+        item_page: 01_design/web_design
+      - web_html:
+        item_name: HTML & CSS
         item_desc: Learn the design process to construct a website
         item_icon: 🧑‍🎨
-        item_page: /11dit/design
-      - website:
-        item_name: Website
-        item_desc: Build the website that you designed
-        item_icon: 🌐
-        item_page: /11dit/website
-      - hci:
-        item_name: Human Computer Interaction
-        item_desc: External — how do people use computers?
-        item_icon: 🚪
-        item_page: /11dit/hci
-  - twelve:
-    category_name: 12DTC
+        item_page: 01_design/html
+  - programming:
+    category_name: Programming
     category_items:
-      - programming:
-        item_name: Programming
-        item_desc: Multi-dimensional lists and advanced functions in Python
+      - basic_programming:
+        item_name: Introduction to Programming
+        item_desc: From "Hello, World!" to a fully functional computer program
         item_icon: 🐍
-        item_page: /12dtc/programming
-      - design:
-        item_name: Project Management
-        item_desc: Plan a project from start to finish
+        item_page: 02_programming/basic
+      - advanced_programming:
+        item_name: Advanced Programming
+        item_desc: Use advanced data structures for advanced computer programs
         item_icon: 🕰️
-        item_page: /12dtc/projman
-      - compsci:
-        item_name: Computer science
-        item_desc: External — the big ideas in computer science
+        item_page: /02_programming/advanced
+      - complex_programming:
+        item_name: Complex Programming
+        item_desc: Get ready for industry and higher education
         item_icon: 🔬
-        item_page: /12dtc/compsci
-  - thirteen:
-    category_name: 13DTC
+        item_page: 02_programming/complex
+  - db:
+    category_name: Database
     category_items:
-      - programming:
-        item_name: Programming
-        item_desc: Object-oriented programming and GUI in Python
-        item_icon: 🐍
-        item_page: /13dtc/programming
-      - projman:
-        item_name: Project management
-        item_desc: Plan a project from start to finish
-        item_icon: 🕰️
-        item_page: /13dtc/projman
-      - hci:
-        item_name: Computer science
-        item_desc: External — the big ideas in computer science
-        item_icon: 🌐
-        item_page: /13dtc/compsci
-  - categories:
-    category_name: Categories
-    category_items:
-      - software_development:
-        item_name: Software development
-        item_desc: Learn to develop software
-        item_icon: 🐍
-        item_page: /programming
+      - basic_db:
+        item_name: 
+        item_desc: Organise and present data for a purpose
+        item_icon: 📊
+        item_page: 03_db/basic
 ---

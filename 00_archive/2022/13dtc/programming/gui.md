@@ -66,7 +66,7 @@ Note: this method might take a long time, especially at school. This is suitable
 
 1. Open Visual Studio Code
 2. Click on the Pip Manager tab
-3. Click ![Add](/img/add.svg) Add Python Package at the top
+3. Click Add Python Package at the top
 4. Type ``PySide6`` in the command palette that appears, and press Enter/Return
 5. Wait until you see PySide6 in the list of packages
 

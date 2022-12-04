@@ -49,7 +49,7 @@ Your program must have contained any of the following:
 
 Comments are required for Achieved in the programming standard. Some of you did not include enough comments; a few didn't include any at all.
 
-Please take a look at the [11DIT comments course](/11dit/programming/comments.md) for information on good commenting practice.
+Please take a look at the [11DIT comments course](/00_archive/2022/11dit/programming/comments.md) for information on good commenting practice.
 
 # Issues that prevented Merit
 

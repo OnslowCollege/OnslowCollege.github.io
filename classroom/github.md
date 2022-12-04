@@ -20,7 +20,7 @@ When you first accept an assignment from a task on this website, you will be ask
 
 ### 2.1.1 In Visual Studio Code, using GitHub Classroom
 
-1. Click on the ![GitHub](/img/github.svg) GitHub tab
+1. Click on the GitHub tab
 2. If you have not yet signed in to GitHub Classroom, click the Sign In button
 3. You will see a list of assignments that you have accepted
   - Hover the mouse pointer over the assignment you wish to open, then click the folder

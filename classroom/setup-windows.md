@@ -68,9 +68,8 @@ parent: Resources
 ## 2.4 Set up Settings Sync in Visual Studio Code
 
 - Open Visual Studio Code
-- Click on the ![Accounts](/img/account.svg) Accounts tab
+- Click on the Accounts tab
 - Click "Turn on Settings Sync"
-![Settings Sync configuration](img/vscode04.png)
 - Click to sign in with your Microsoft account
   - Use your school email address and password to log in
   - Do **NOT** use your personal email address

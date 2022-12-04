@@ -25,16 +25,9 @@ categories:
     category_items:
       - the_task:
         item_name: The Task
-        item_desc: An explanation of the standard and task for Term 2 and 3
+        item_desc: An explanation of the standard and task for Term 1
         item_icon: 💬
         item_page: task
-      - resources:
-        item_desc: |
-                <ul>
-                <li><a href="https://onslowcollege.sharepoint.com/:w:/s/11DIT499/EUDq-lwmVkVKiysy5VPAz2ABsza6-Y-u_1ETVeyaKYM2rw?e=A1LoxA">Design portfolio</a></li>
-                <li><a href="https://onslowcollege.sharepoint.com/:w:/s/11DIT499/EU7Y4J3h9D1PqfpnumnPeHwBBLqMSm0EAUwZtve1fJ5giQ?e=YdGLFR">Feedback sheet</a></li>
-                <li><a href="https://onslowcollege.sharepoint.com/:w:/s/11DIT499/EYytzem6TsxIpAQKgc6JYSEBB5mNqkQNR-5oeJyVcFsR2w?e=JY7ReK">Testing</a></li>
-                </ul>
       - purpose:
         item_name: Purpose & end users
         item_desc: Determine for what and whom the website is needed
